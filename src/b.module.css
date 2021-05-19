@@ -1,0 +1,7 @@
+.styles {
+    display: inline-block;
+    *display: inline;
+    width: 2%;
+    margin: 0.25em ;
+    vertical-align: top;
+}
